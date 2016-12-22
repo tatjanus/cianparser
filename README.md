@@ -5,9 +5,11 @@ Predicting cian prices (cian.ru)
 code:
 
 parser.ipynb - first version of cian parser, 11.2016
+
 cian_parser2.0.ipynb - corrected, improved version, 12.2016
 
 cian_dataprep_visualization.ipynb - second part: vis + some analysis 12.2016
+
 cian_ml.ipynb - third part: models and comparison 12.2016
 
 data:
